@@ -1,0 +1,11 @@
+Metric,Value
+Number of test trials,3000.0
+Nominal coverage (%),80.0
+Empirical coverage (%),80.7
+Coverage gap (percentage points),0.7000000000000028
+Covered trials,2421.0
+Not covered trials,579.0
+Mean interval width,0.12954392379040292
+Median interval width,0.1281686508088511
+Minimum interval width,0.07040233413544446
+Maximum interval width,0.24594375930228085
