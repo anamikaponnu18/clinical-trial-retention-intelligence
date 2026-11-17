@@ -1,0 +1,6 @@
+Recommendation rank,Evidence block,Full-information interval width,Width when block is hidden,Estimated uncertainty reduction if revealed
+1,Participant eligibility information,0.11934369634654834,0.13698595914010367,0.017642262793555324
+2,Trial design information,0.11934369634654834,0.10381312182596272,0.0
+3,Condition and intervention information,0.11934369634654834,0.11934369634654834,0.0
+4,Trial summary information,0.11934369634654834,0.11030481514831986,0.0
+5,Sponsor information,0.11934369634654834,0.11934369634654834,0.0

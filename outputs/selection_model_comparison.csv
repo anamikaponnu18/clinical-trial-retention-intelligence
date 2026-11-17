@@ -1,0 +1,5 @@
+Model,Selection MAE
+Ridge Regression,0.02496033456062287
+Random Forest,0.03772455062955999
+Gradient Boosting,0.040032500156728726
+Mean baseline,0.0851557215

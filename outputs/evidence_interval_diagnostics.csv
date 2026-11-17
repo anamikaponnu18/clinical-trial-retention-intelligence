@@ -1,0 +1,8 @@
+Metric,Value
+Number of test trials,200.0
+Mean interval width,0.13024439464753254
+Median interval width,0.12752312744381006
+Minimum interval width,0.07521814266374087
+Maximum interval width,0.22230376157253617
+5th percentile width,0.09366339724905633
+95th percentile width,0.1776273025100046
